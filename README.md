@@ -11,6 +11,14 @@
 ## 이달의 문제
 
 📚 [BOJ 연습 문제집](https://www.acmicpc.net/group/practice/22838)
+📚 [B형 대비 문제집]
+[트라이](https://www.acmicpc.net/workbook/view/12649)
+[유니온-파인드](https://www.acmicpc.net/workbook/view/21218)
+[해시](https://www.acmicpc.net/workbook/view/9063)
+[다익스트라](https://www.acmicpc.net/workbook/view/10433)
+
+
+
 
 🏆 [문제 해결 현황](https://github.com/SSAFY-14th-GUMI-Class-4-PS-Study)
 
