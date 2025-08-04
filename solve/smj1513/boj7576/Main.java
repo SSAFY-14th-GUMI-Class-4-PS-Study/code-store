@@ -1,3 +1,4 @@
+package smj1513.boj7576;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
