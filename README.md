@@ -28,7 +28,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.04(월) | | [BOJ 소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511) | |
+| 08.04(월) | [BOJ 섬의 개수](https://www.acmicpc.net/problem/4963) | [BOJ 소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511) | [BOJ 공장] (https://www.acmicpc.net/problem/7578) |
 <br>
 
 ## Convention
