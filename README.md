@@ -40,9 +40,9 @@
 > 공백에 영소문자 외 빈 칸, 특수문자와 같은 문자가 포함되지 않게 유의한다.
 >
 > ```
-> {{성명}/플랫폼태그(소문자)}{문제 번호}//{클래스명}.java
-> >>> smj1513/swea22574/Solution.java
-> >>> smj1513/boj22574/Main.java
+> solve/{{성명}/플랫폼태그(소문자)}{문제 번호}//{클래스명}.java
+> >>> solve/smj1513/swea22574/Solution.java
+> >>> solve/smj1513/boj22574/Main.java
 > ```
 
 > ### Commit message
