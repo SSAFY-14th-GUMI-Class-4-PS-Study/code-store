@@ -1,4 +1,4 @@
-<img width="698" height="445" alt="image" src="https://github.com/user-attachments/assets/aeaeb980-9cd7-486e-ad18-39a36925b36a" /># 2025 문제 해결 스터디
+# 2025 문제 해결 스터디
 
 ## 오늘의 문제
 
