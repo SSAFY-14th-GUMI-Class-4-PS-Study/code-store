@@ -4,7 +4,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.06(수) | [BOJ 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |[BOJ 회사 문화1](https://www.acmicpc.net/problem/14267)| [BOJ 공장](https://www.acmicpc.net/problem/7578) |
+| 08.07(목) | [BOJ 결혼식](https://www.acmicpc.net/problem/5567) |[BOJ 적록색약](https://www.acmicpc.net/problem/10026)| [BOJ 공장](https://www.acmicpc.net/problem/7578) |
 
 
 <br>
@@ -29,6 +29,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08.06(수) | [BOJ 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |[BOJ 회사 문화1](https://www.acmicpc.net/problem/14267)| [BOJ 공장](https://www.acmicpc.net/problem/7578) |
 | 08.05(화) | [BOJ 안전영역](https://www.acmicpc.net/problem/2468) |[BOJ 숨바꼭질3](https://www.acmicpc.net/problem/13549)| [BOJ 공장](https://www.acmicpc.net/problem/7578) |
 | 08.04(월) | [BOJ 섬의 개수](https://www.acmicpc.net/problem/4963) | [BOJ 소셜 네트워킹 어플리케이션](https://www.acmicpc.net/problem/7511) | [BOJ 공장](https://www.acmicpc.net/problem/7578) |
 <br>
