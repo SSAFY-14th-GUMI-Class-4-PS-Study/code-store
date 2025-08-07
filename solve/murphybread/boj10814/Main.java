@@ -1,3 +1,4 @@
+package murphybread.boj10814;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -39,7 +40,7 @@ public class Main {
 					
 			
 			
-			userAges.put(Integer.parseInt(line[0]), line[1]);
+			//userAges.put(Integer.parseInt(line[0]), line[1]);
 			
 			
 			
