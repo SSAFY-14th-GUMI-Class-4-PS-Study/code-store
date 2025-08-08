@@ -9,7 +9,7 @@ public class Main {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     BufferedWriter wr = new BufferedWriter(new OutputStreamWriter(System.out));
 
-    int[] parent;
+    int[] parent; // 부모
 
     boolean isSame(int a, int b){
         return find(a) == find(b);
