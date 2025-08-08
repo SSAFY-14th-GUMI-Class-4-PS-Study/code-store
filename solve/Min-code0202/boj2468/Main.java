@@ -15,7 +15,7 @@ public class Main {
     int[][] arr;
 
     int[][] dr = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    int[][] visited;
+    int[][] visited; // 방문배열
     int ans = 0;
 
     void bfs(int si, int sj, int rain){
