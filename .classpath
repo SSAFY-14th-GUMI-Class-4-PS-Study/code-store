@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="murphybread/boj2468/" kind="src" path="solve"/>
+	<classpathentry kind="src" path="solve/murphybread/boj2468"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
