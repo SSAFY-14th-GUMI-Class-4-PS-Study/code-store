@@ -38,8 +38,7 @@ public class Main {
         dfs(0,"",0);
         
         Collections.sort(list2);
-        if(N >= list2.size()){ // 왜 같아야함?
-            System.out.println(-1);
+        if(N >= list2.size()){ // 왜 같아야함? // 0 =0 d이ㅣ낙
         }
         else{
             System.out.println(list2.get(N));
