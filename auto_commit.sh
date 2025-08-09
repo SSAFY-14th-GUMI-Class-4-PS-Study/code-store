@@ -33,7 +33,7 @@ current_branch=$(git branch --show-current)
 
 # 3. 문제 번호 추출 (problem_id에 저장)
 boj_path=$file
-problem_id=$(echo $boj_path | cut -d '/' -f 2)
+problem_id=$(echo $boj_path | grep -o 'boj[0-9]*' | sed 's/boj//')
 
 # 4. README.md에서 해당 줄 찾기
 line=$(grep "problem/$problem_id)" README.md | tail -n 1)

@@ -66,7 +66,6 @@ public class Main {
 		visit[idx][jdx] = true;
 		
 		char ch = graph[idx][jdx];
-		System.out.println(ch);
 		
 		while (!que.isEmpty()) {
 			int[] cur = que.poll();
