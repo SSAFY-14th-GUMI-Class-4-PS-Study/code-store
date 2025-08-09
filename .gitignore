@@ -74,3 +74,9 @@ local.properties
 .sts4-cache/
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
+
+### MAC .DS_Store
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
