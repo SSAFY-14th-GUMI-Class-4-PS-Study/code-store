@@ -4,7 +4,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.11(월) | [BOJ 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |[BOJ 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| [SWEA 승강제 리그](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do?contestProbId=AYH2FcG6secDFATO&categoryId=AZTujPra0t3HBIOK&categoryType=BATTLE&battleMainPageIndex=3) |
+| 08.11(월) | [BOJ 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |[BOJ 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| [SWEA PRO 승강제 리그](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do?contestProbId=AYH2FcG6secDFATO&categoryId=AZTujPra0t3HBIOK&categoryType=BATTLE&battleMainPageIndex=3) |
 
 
 <br>
