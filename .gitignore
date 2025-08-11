@@ -77,3 +77,9 @@ local.properties
 .project
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse
+
+### MAC .DS_Store
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
