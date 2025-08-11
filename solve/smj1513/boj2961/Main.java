@@ -12,6 +12,7 @@ class Ingredient {
     public Ingredient(int s, int b) {
         this.s = s;
         this.b = b;
+
     }
 }
 
