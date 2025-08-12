@@ -4,7 +4,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.12(화) | [BOJ N번째 큰 수](https://www.acmicpc.net/problem/2075) |[BOJ 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
+| 08.12(화) | [BOJ N번째 큰 수](https://www.acmicpc.net/problem/2075) |[BOJ 가운데를 말해요](https://www.acmicpc.net/problem/1655)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 
 
 <br>
