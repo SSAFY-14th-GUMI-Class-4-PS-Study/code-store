@@ -4,7 +4,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.11(월) | [BOJ 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |[BOJ 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| [SWEA PRO 승강제 리그](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do?contestProbId=AYH2FcG6secDFATO&categoryId=AZTujPra0t3HBIOK&categoryType=BATTLE&battleMainPageIndex=3) |
+| 08.12(화) | [BOJ N번째 큰 수](https://www.acmicpc.net/problem/2075) |[BOJ 이중 우선순위 큐](https://www.acmicpc.net/problem/7662)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 
 
 <br>
@@ -29,6 +29,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08.11(월) | [BOJ 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |[BOJ 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 | 08.08(금) | [BOJ 효율적인 해킹](https://www.acmicpc.net/problem/1325) |[BOJ 감소하는수](https://www.acmicpc.net/problem/1038)| [BOJ 공장](https://www.acmicpc.net/problem/7578) |
 | 08.07(목) | [BOJ 결혼식](https://www.acmicpc.net/problem/5567) |[BOJ 적록색약](https://www.acmicpc.net/problem/10026)| [BOJ 공장](https://www.acmicpc.net/problem/7578) |
 | 08.06(수) | [BOJ 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) |[BOJ 회사 문화1](https://www.acmicpc.net/problem/14267)| [BOJ 공장](https://www.acmicpc.net/problem/7578) |
