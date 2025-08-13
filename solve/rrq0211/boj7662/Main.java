@@ -7,6 +7,10 @@ import java.util.Map.Entry;
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 
+/**
+ * treeset은 중복되는 값이 들어오면 합쳐져서 1개만 남게됨
+ * 따라서 treemap을 활용하여 개수를 남겨줌.
+ */
 public class Main {
 
 	public static void main(String[] args) throws IOException {
