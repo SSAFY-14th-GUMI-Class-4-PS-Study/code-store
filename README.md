@@ -4,7 +4,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.14(수) | [BOJ 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |[BOJ 소문난 칠공주](https://www.acmicpc.net/problem/1941)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
+| 08.19(화) | [BOJ 과자 나눠주기](https://www.acmicpc.net/problem/16401) |[BOJ 최단 경로](https://www.acmicpc.net/problem/1753)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 
 
 <br>
@@ -29,6 +29,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08.14(목) | [BOJ 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |[BOJ 소문난 칠공주](https://www.acmicpc.net/problem/1941)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 | 08.13(수) | [BOJ 모든 순열](https://www.acmicpc.net/problem/10974) |[BOJ 좋은 수열](https://www.acmicpc.net/problem/2661)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 | 08.12(화) | [BOJ N번째 큰 수](https://www.acmicpc.net/problem/2075) |[BOJ 가운데를 말해요](https://www.acmicpc.net/problem/1655)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 | 08.11(월) | [BOJ 도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961) |[BOJ 하늘에서 별똥별이 빗발친다](https://www.acmicpc.net/problem/14658)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
