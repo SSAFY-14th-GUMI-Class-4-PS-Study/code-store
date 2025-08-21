@@ -3,8 +3,8 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.ArrayDeque;
 import java.util.Queue;
+import java.util.ArrayDeque;
 
 public class Boj10026 {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
