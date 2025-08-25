@@ -4,7 +4,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.25(월) | [BOJ 로또](https://www.acmicpc.net/problem/6603) |[BOJ 친구비](https://www.acmicpc.net/problem/16562)| [BOJ 백조의 호수](https://www.acmicpc.net/problem/3197) |
+| 08.25(월) | [BOJ 로또](https://www.acmicpc.net/problem/6603) |[BOJ 친구비](https://www.acmicpc.net/problem/16562)| [SWEA PRO OTT](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do) |
 
 
 <br>
