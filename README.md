@@ -4,7 +4,7 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :---------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08.25(월) | [BOJ 로또](https://www.acmicpc.net/problem/6603) |[BOJ 친구비](https://www.acmicpc.net/problem/16562)| [SWEA PRO OTT](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do) |
+| 08.27(수) | [BOJ 지름길](https://www.acmicpc.net/problem/1446) |[BOJ 선수과목](https://www.acmicpc.net/problem/14567)| [SWEA PRO OTT](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do) |
 
 
 <br>
@@ -29,6 +29,8 @@
 
 | DATE      | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/6-a.svg" width="12px" /> DAILY EASY | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/11-a.svg" width="12px" /> DAILY NORMAL | <img src="https://d2gd6pc034wcta.cloudfront.net/tier/16-a.svg" width="12px" /> WEEKLY HARD |
 | :-------- | :------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 08.26(화) | [BOJ 동전게임](https://www.acmicpc.net/problem/9079) |[BOJ 중량 제한](https://www.acmicpc.net/problem/1939)| [SWEA PRO OTT](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do) |
+| 08.25(월) | [BOJ 로또](https://www.acmicpc.net/problem/6603) |[BOJ 친구비](https://www.acmicpc.net/problem/16562)| [SWEA PRO OTT](https://swexpertacademy.com/main/code/codeBattle/problemDetail.do) |
 | 08.20(수) | [BOJ 과자 나눠주기](https://www.acmicpc.net/problem/16401) |[BOJ 두 배열의 합](https://www.acmicpc.net/problem/2143)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 | 08.19(화) | [BOJ 과자 나눠주기](https://www.acmicpc.net/problem/16401) |[BOJ 최단 경로](https://www.acmicpc.net/problem/1753)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
 | 08.14(목) | [BOJ 잃어버린 괄호](https://www.acmicpc.net/problem/1541) |[BOJ 소문난 칠공주](https://www.acmicpc.net/problem/1941)| [BOJ 중앙값](https://www.acmicpc.net/problem/1572) |
